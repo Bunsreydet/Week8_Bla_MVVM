@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-
-import '../../theme/theme.dart';
-import '../buttons/bla_circle_button.dart';
-import '../buttons/bla_icon_button.dart';
+import 'package:week8_bla_mvvm/ui/theme/theme.dart';
+import 'package:week8_bla_mvvm/ui/widgets/buttons/bla_circle_button.dart';
+import 'package:week8_bla_mvvm/ui/widgets/buttons/bla_icon_button.dart';
 
 class BlaSeatPicker extends StatefulWidget {
   const BlaSeatPicker({super.key, this.initSeats, required this.maxSeat});
