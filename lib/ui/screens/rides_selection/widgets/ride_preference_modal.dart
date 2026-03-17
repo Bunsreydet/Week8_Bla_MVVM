@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:week8_bla_mvvm/ui/widgets/pickers/bla_ride_preference_picker.dart';
+import 'package:week8_bla_mvvm/ui/widgets/pickers/location/bla_ride_preference_picker.dart';
 
 import '../../../../model/ride_pref/ride_pref.dart';
 import '../../../theme/theme.dart';

@@ -3,7 +3,7 @@ import 'package:week8_bla_mvvm/model/ride_pref/ride_pref.dart';
 import 'package:week8_bla_mvvm/services/ride_prefs_service.dart';
 import '../../../utils/animations_util.dart';
 import '../../theme/theme.dart';
-import '../../widgets/pickers/bla_ride_preference_picker.dart';
+import '../../widgets/pickers/location/bla_ride_preference_picker.dart';
 import '../rides_selection/rides_selection_screen.dart';
 import 'widgets/home_history_tile.dart';
 
